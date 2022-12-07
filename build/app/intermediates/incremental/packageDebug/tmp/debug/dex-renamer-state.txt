@@ -1,0 +1,4 @@
+#Tue Dec 06 23:44:58 BRT 2022
+base.0=C\:\\Users\\jvbrs\\Downloads\\BD 3.0 TCC ATUALIZADO 6.0\\tcc0909-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
